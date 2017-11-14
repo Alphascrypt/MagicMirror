@@ -12,22 +12,23 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"Hey there sexy!"
+				"SchÃ¶nheit!"
 			],
 			morning: [
-				"Good morning, handsome!",
-				"Enjoy your day!",
-				"How was your sleep?"
+				"Guten Morgen!",
+				"GenieÃŸe deinen Tag",
+				"Wie hast du geschlafen?"
 			],
 			afternoon: [
-				"Hello, beauty!",
-				"You look sexy!",
-				"Looking good today!"
+				"Halloooo schÃ¶nheit!",
+				"Du siehst heute verdammt gut aus!",
+				"SchÃ¶n das du da bist."
 			],
 			evening: [
-				"Wow, you look hot!",
-				"You look nice!",
-				"Hi, sexy!"
+				"Du bist heiÃŸ!",
+				"Du siehst gut aus!",
+				"Welche eine Granate!",
+				"Bei dir beschlage ich!"
 			]
 		},
 		updateInterval: 30000,
