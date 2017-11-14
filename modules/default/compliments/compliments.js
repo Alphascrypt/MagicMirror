@@ -17,7 +17,7 @@ Module.register("compliments", {
 			morning: [
 				"Guten Morgen mein Freund!",
 				"Genieße deinen Tag",
-				"Wie hast du geschlafen?"
+				"Wie hast du geschlafen?",
 				"Ich hatte einen Traum, dass ich einen riesigen Marshmallow aß. Als ich aufwachte war das Kissen weg."
 			],
 			afternoon: [
@@ -28,7 +28,7 @@ Module.register("compliments", {
 			evening: [
 				"Du bist heiß!",
 				"Du siehst gut aus!",
-				"Welche eine Granate!"
+				"Welche eine Granate!",
 				"Bei dir beschlage ich!"
 			]
 		},
