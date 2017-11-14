@@ -36,7 +36,7 @@ bash -c "$(curl -sL https://raw.githubusercontent.com/MichMich/MagicMirror/maste
 
 AUS MEINER REPO:
 
-bash -c "$(curl -sL https://raw.githubusercontent.com/Alphascrypt/MagicMirror/blob/develop/installers/raspberry.sh)"
+bash -c "$(curl -sL https://raw.githubusercontent.com/Alphascrypt/MagicMirror/develop/installers/raspberry.sh)"
 
 ````
 
