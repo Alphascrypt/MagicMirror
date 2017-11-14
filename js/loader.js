@@ -4,6 +4,7 @@
  *
  * By Michael Teeuw http://michaelteeuw.nl
  * MIT Licensed.
+ * HALLO kleiner TEST
  */
 
 var Loader = (function() {
