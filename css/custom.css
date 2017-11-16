@@ -1,14 +1,8 @@
-/*****************************************************
- * Magic Mirror                                      *
- * Custom CSS                                        *
- *                                                   *
- * By Michael Teeuw http://michaelteeuw.nl           *
- * MIT Licensed.                                     *
- *                                                   *
- * Add any custom CSS below.                         *
- * Changes to this files will be ignored by GIT. *
- *****************************************************/
-
  body {
+ margin: 20px; /* Adjust this to taste */
+
+  /* Also adjust these to subtract 2 x the value above */
+  width: calc(100% - 20px);
+  height: calc(100% - 20px);
  	
  }
